@@ -1,0 +1,25 @@
+----Excercises----
+1.Find the list of files recursively in a given directory which is owned by a specified user ex:- root.
+Ans. In the above scenario we can categorise into different types.
+1.First we need to know the Directory name which we want find the files.
+2.Then we need to know the name of the user in which we need to filter ex:- root.
+3.At last we have to know the name of the file or pattern.
+
+Sceanario1:-Find the list of files in home directory who is owned by root 
+cmd:- find diroctory -user(user name) -name(File name or Pattern).
+
+ex:- find /home -user root -name "*.sh"
+
+Scenario2:- Find the list of the files in a given directory who is owned by groups.
+
+ex:- find /HOME -group gmail -name "*.sh"
+
+2.Find thelist of files recursively in a given directory which is older than one week
+Ans.In this sceanrios we can acheive it by using find command by passing some auguments like type and mtime ect.
+
+cmd:- find . -type f -mtime -7 -print
+ 
+ 
+ 
+ 
+ 
