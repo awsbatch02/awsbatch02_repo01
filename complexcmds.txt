@@ -18,8 +18,11 @@ ex:- find /HOME -group gmail -name "*.sh"
 Ans.In this sceanrios we can acheive it by using find command by passing some auguments like type and mtime ect.
 
 cmd:- find . -type f -mtime -7 -print
+
+If we want to add all those list of files into one file we can use below cmd.
+
+cmd:-find . -type f -mtime -7 -print > last7days.txt 
  
- 
- 
+
  
  
