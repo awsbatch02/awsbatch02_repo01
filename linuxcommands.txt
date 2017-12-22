@@ -1,0 +1,518 @@
+    1  ls
+    2  echo 1.java
+    3  ls
+    4  cal
+    5  date
+    6  add user mahendra
+    7  adduser mahendra
+    8  su root
+    9  clear
+   10  ls
+   11  whoim
+   12  who
+   13  whomi
+   14  pwd
+   15  who
+   16  uname -a
+   17  clear
+   18  cat 1.java
+   19  touch 1.java
+   20  touch 1.txt
+   21  ls
+   22  git status
+   23  ls
+   24  git --version
+   25  ls
+   26  clear
+   27  cd devops
+   28  ls
+   29  cd wspace3
+   30  ls
+   31  cat 11.java 
+   32  clear
+   33  cd ..
+   34  exit
+   35  clear
+   36  cal
+   37  cal 1 2018
+   38  clear
+   39  hostname
+   40  clear
+   41  uname
+   42  ls
+   43  su mahendra1
+   44  yum install git
+   45  sudo yum install git
+   46  git --version
+   47  sudo yum upgrade git
+   48  clear
+   49  git config user.name "mahendra"
+   50  mkdir devops
+   51  ls
+   52  cd devops
+   53  mkdir git
+   54  cd git
+   55  git init --bare
+   56  cd ..
+   57  git clone git wspace1
+   58  cd wspace1
+   59  touch 1.java
+   60  echo "this is first file" > 1.java
+   61  ls
+   62  cat 1.java
+   63  git status
+   64  git add .
+   65  git commit
+   66  git commit -m "adding first file"
+   67  clear
+   68  git status
+   69  git log --oneline
+   70  clear
+   71  git log --oneline
+   72  git show fc07546
+   73  git push
+   74  git branch
+   75  git config --global push.default simple
+   76  git push
+   77  cd ..
+   78  clear
+   79  pwd
+   80  git clone git wspace2
+   81  cd wspace2
+   82  ls
+   83  cat 1.java
+   84  clear
+   85  cd ..
+   86  git clone https://github.com/MithiMahendra/git.git wspace3
+   87  cd wspace3
+   88  ls
+   89  cd home
+   90  cd ..
+   91  ls
+   92  sudo yum install epel-release
+   93  sudo yum install git python python-develpython-pip openssl ansible
+   94  ansible --version
+   95  clear
+   96  ansible --version
+   97  sudo yum upgrade ansible
+   98  clear
+   99  sudo adduser mahendra1
+  100  adduser mahendra1
+  101  root
+  102  su -root
+  103  su --root
+  104  clear
+  105  su root
+  106  passwd root
+  107  passwd centos
+  108  sudo passwd centos
+  109  su root
+  110  sudo passwd centos
+  111  su root
+  112  sudo passwd centos
+  113  su root
+  114  sudo adduser mahendra1
+  115  who
+  116  uname
+  117  clear
+  118  uname
+  119  uname -a
+  120  su mahendra1
+  121  sudo passwd mahendra1
+  122  su mahendra1
+  123  logout
+  124  ls
+  125  cat devops
+  126  cd devops
+  127  cd ..
+  128  vim 1.java
+  129  ls
+  130  vim 1.txt
+  131  history
+  132  clear
+  133  hostname
+  134  uname
+  135  who
+  136  ps
+  137  who -b
+  138  who -q
+  139  logout
+  140  hostname
+  141  uname
+  142  who
+  143  whoim
+  144  whomi
+  145  whoami
+  146  ssh ubuntu@ip-172-31-25-54
+  147  sudo ssh ubuntu@ip-172-31-25-54
+  148  clear
+  149  logout
+  150  ls
+  151  google-chrome
+  152  sudo yum install google-chrome
+  153  google --version
+  154  git --version
+  155  clear
+  156  google-chrome
+  157  sudo yum install google-chrome-stable
+  158  # yum localinstall google-chrome-stable_current_x86_64.rpm 
+  159  yum localinstall google-chrome-stable_current_x86_64.rpm 
+  160  sudo yum localinstall google-chrome-stable_current_x86_64.rpm 
+  161  clear
+  162  ls
+  163  yum install epel-release
+  164  sudo su -a
+  165  sudo su -
+  166  logout
+  167  export dispaly=:1
+  168  ffirefox
+  169  firefox
+  170  export DISPALY=:0.0
+  171  export DISPALY=:1
+  172  firefox
+  173  export DISPALY=:0.0
+  174  firefox
+  175  export dispaly=:1 firefox
+  176  firefox
+  177  export dispaly=:0.0  firefox
+  178  export dispaly=:0.0 firefox
+  179  firefox
+  180  export dispaly=:0.0
+  181  clear
+  182  google-chrome
+  183  yum install google-chrome
+  184  sudo yum install google-chrome
+  185  google-chrome
+  186  google
+  187  chhrome
+  188  yum start google
+  189  sudo -
+  190  sudo su
+  191  clear
+  192  yum start firefox
+  193  firefox
+  194  yum open fireffox
+  195  yum open firefox
+  196  $ sudo ln -s /usr/local/firefox/firefox /usr/bin/firefox
+  197   sudo ln -s /usr/local/firefox/firefox /usr/bin/firefox
+  198  firefox
+  199  ls
+  200  sudo
+  201  su
+  202  sudo reboot
+  203  ls
+  204  ansible --version
+  205  vim etc/ansible/ansible.cfg
+  206  sudo vim etc/ansible/ansible.cfg
+  207  sudo yum install vim
+  208  vim etc/ansible/ansible.cfg
+  209  clear
+  210  vim --version
+  211  clear
+  212  sudo vim etc/ansible/ansible.cfg
+  213  yum update vim
+  214  sudo yum update vim
+  215  clear
+  216  sudo vi/ etc/ansible/hosts
+  217  sudo vim /etc/ansible/hosts
+  218  clear
+  219  cat /etc/ansible.ansible.cfg
+  220  cd /etc/ansible.ansible.cfg
+  221  ansible --version
+  222  sudo vim /etc/ansible/ansible.cfg
+  223  clear
+  224  who
+  225  su
+  226  mahendra@devops
+  227  su
+  228  sudo passwd centos
+  229  sudo
+  230  su
+  231  exit
+  232  su
+  233  su centos@linux
+  234  su centos@ip-172-31-16-162
+  235  ssh centos@ip-172-31-16-162
+  236  hostname
+  237  ssh centos@ip-172-31-16-162.us-east-2.compute.internal
+  238  clear
+  239  logout
+  240  chrome
+  241  yum chrome
+  242  clear
+  243  firefox
+  244  clear
+  245  who -u
+  246  clear
+  247  logout
+  248  exit
+  249  chrome
+  250  chrome --version
+  251  google ---version
+  252  sudo yum install google
+  253  sudo yum install chrome
+  254  google --version
+  255  yum install google
+  256  sudo su - oot
+  257  sudo su - root
+  258  sudo su -root
+  259  sudo su - root
+  260  uname
+  261  who
+  262  sudo su - root
+  263  hostname
+  264  ssh mahendra1@ip-172-31-16-162.us-east-2.compute.internal
+  265  sudo ssh mahendra1@ip-172-31-16-162.us-east-2.compute.internal
+  266  clear
+  267  who
+  268  who -u
+  269  sudo passwd mahendra1
+  270  su mahendra1
+  271  logout
+  272  1.txt
+  273  ls
+  274  cd devops/
+  275  ls
+  276  cd ...
+  277  cd ..
+  278  vim 1.txt
+  279  cat 1.txt
+  280  vim 1.txt
+  281  clear
+  282  logout
+  283  shell --version
+  284  sudo yum install shell
+  285  vim 1.txt
+  286  cat 2.txt
+  287  touch 1.sh
+  288  cat 1.sh
+  289  vim 1.sh
+  290  cat 1.sh
+  291  ./1.sh
+  292  chmod 111 1.sh
+  293  ls lrt 1.sh
+  294  ls -lrt 1.sh
+  295  ./1.sh
+  296  sudo ./1.sh
+  297  clear
+  298  vim 1.sh
+  299  cat 1.sh
+  300  touch fibnacci.sh
+  301  vim fibnacci.sh
+  302  clear
+  303  ls
+  304  host
+  305  hostname
+  306  which ansible
+  307  ansible --version
+  308  su - mahendra1
+  309  visudo
+  310  su - root
+  311  sudo centos
+  312  clear
+  313  sudo yum update ansible
+  314  clear
+  315  sudo - centos
+  316  sudo - root
+  317  clear
+  318  sudo centos
+  319  su - root
+  320  passwd
+  321  clear
+  322  chpasswd
+  323  sudo passwd
+  324  clear
+  325  sudo - root
+  326  su - root
+  327  su - mahendra1
+  328  su - root
+  329  su - mahendra1
+  330  visudo
+  331  sudo - root
+  332  su - root
+  333  sudo yum install xshell
+  334  ls
+  335  su - root
+  336  logout
+  337  sudo yum install python
+  338  which python
+  339  vim 1.py
+  340  python 1.py
+  341  clear
+  342  vim 1.py
+  343  vim 1.py             
+  344  clear
+  345  python 1.py
+  346  vim 1.py
+  347  python 1.py
+  348  vim 1.py
+  349  python 1.py
+  350  vim 1.py
+  351  clear
+  352  vim 2.py
+  353  python 2.py
+  354  vim 2.py
+  355  python 2.py
+  356  vim 2.py
+  357  python 2.py
+  358  vim 2.py
+  359  python 2.py
+  360  vim 2.py
+  361  python 2.py
+  362  vim 2.py
+  363  python 2.py
+  364  vim 2.py
+  365  python 2.py
+  366  vim 2.py
+  367  python 2.py
+  368  vim 2.py
+  369  python 2.py
+  370  clear
+  371  vim 2.py
+  372  python 2.py
+  373  vim 2.py
+  374  vim 1.py
+  375  python 1.py
+  376  vim 1.py
+  377  cat 1.py
+  378  python 1.py
+  379  vim 1.py
+  380  clear
+  381  vim 1.py
+  382  which python
+  383  ls
+  384  vim 1.py
+  385  python 1.py
+  386  vim 1.py
+  387  python 1.py
+  388  vim 1.py
+  389  python 1.py
+  390  clear
+  391  ls
+  392  vim 2.py
+  393  python 2.py
+  394  vim 2.py
+  395  python 2.py
+  396  vim 2.py
+  397  python 2.py
+  398  vim 2.py
+  399  python 2.py
+  400  vim 2.py
+  401  clear
+  402  vim 2.py
+  403  python 2.py
+  404  vim 2.py
+  405  python 2.py
+  406  clear
+  407  ansible --version
+  408  clear
+  409  ls
+  410  vim fib.py
+  411  python fib.py
+  412  vim fib.py
+  413  python fib.py
+  414  vim fib.py
+  415  python fib.py
+  416  vim fib.py
+  417  python fib.py
+  418  clear
+  419  vim fib.py
+  420  python fib.py
+  421  clear
+  422  vim fib.py
+  423  python fib.py
+  424  ssh ubuntu@ec2-18-218-30-99.us-east-2.compute.amazonaws.com
+  425  ls
+  426  vim fib.py
+  427  python fib.py
+  428  vim fib.py
+  429  python fib.py
+  430  clear
+  431  vim fib.py
+  432  python fib.py
+  433  wq
+  434  vim fib.py
+  435  python fib.py
+  436  vim fib.py
+  437  python fib.py
+  438  vim fib.py
+  439  python fib.py
+  440  clear
+  441  vim fib.py
+  442  python fib.py
+  443  vim fib.py
+  444  python fib.py
+  445  vim fib.py
+  446  python fib.py
+  447  vim fib.py
+  448  python fib.py
+  449  vim fib.py
+  450  python fib.py
+  451  vim fib.py
+  452  clear
+  453  vim fib.py
+  454  ls
+  455  which docker
+  456  clear
+  457  cat 2.py
+  458  clear
+  459  docker ps
+  460  systemctrl start docker
+  461  service start docker
+  462  clear
+  463  docker info
+  464  systemctl start docker
+  465  sudo systemctl start docker
+  466  docker info
+  467  clear
+  468  cd /git
+  469  ls
+  470  cd /devops
+  471  cd /devops/
+  472  grep -nRi "print" 1.py
+  473  clear
+  474  sudo yum install docker-ce
+  475  sudo yum install docker
+  476  clear
+  477  docker --version
+  478  clear
+  479  service start docker
+  480  systemctl start docker
+  481  docker info
+  482  clear
+  483  service start docker
+  484  systemctl start docker
+  485  docker run -it ubuntu /bin/bash
+  486  systemctl start docker
+  487  docker info
+  488  yum update
+  489  sudo su -
+  490  clear
+  491  ls
+  492  cd /devops
+  493  cd devops
+  494  d:
+  495  cd ..
+  496  d:
+  497  cd d:
+  498  clear
+  499  ls
+  500  sudo -i
+  501  whoim
+  502  whoiam
+  503  whoami
+  504  clear
+  505  logout
+  506  id ec2-user
+  507  sudo -i
+  508  exit
+  509  clear
+  510  ls
+  511  hostname
+  512  clear
+  513  git clone https://github.com/awsbatch02/awsbatch02_repo01.git wspace1
+  514  ls
+  515  cd wspace1
+  516  ls
+  517  pwd
+  518  history >linuxcommands.txt
