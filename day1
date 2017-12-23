@@ -72,17 +72,18 @@
    72  exit
    73  id jagu
    74  su jagu
-   75  git clone https://github.com/awsbatch02/awsbatch02_repo01.git practice
-   76  sudo yum install git
-   77  git clone https://github.com/awsbatch02/awsbatch02_repo01.git practice
-   78  ls
-   79  cd practice
-   80  echo bahubali
-   81  cat practice
-   82  touch linu
-   83  echo bahubali
-   84  cat linu
-   85  echo bahubalu >>linu
-   86  cat linu
-   87  history
-   88  history > day1
+   75  git clone http://github.com/awsbatch02/awsbatch02_repo01.git practice
+   76  cd practice
+   77  ls
+   78  cat linu
+   79  rm linu
+   80  git add .
+   81  touch task2.txt
+   82  git add .
+   83  git status
+   84  git commit
+   85  git commit -m "Adding empty file"
+   86  git push
+   87  history > day1
+   88  history
+   89  history > day1
