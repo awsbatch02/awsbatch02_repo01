@@ -1,0 +1,75 @@
+    1  whoami
+    2  date
+    3  ca;
+    4  cal
+    5  uptime
+    6  touch test1
+    7  ls
+    8  ls -l
+    9  ifconfig
+   10  ping ipaddress
+   11  192.168.253.130 
+   12  ping 192.168.253.130 
+   13  free
+   14  pwd
+   15  history
+   16  man
+   17  wget test1
+   18  cat test1
+   19  history
+   20  rm test1
+   21  test1
+   22  cat test1
+   23  top -htop
+   24  clear
+   25  touch test2
+   26  ls test2
+   27  ls -l
+   28  chmod 745 u=rwx g=rx o=r test2
+   29  chmod 777 test2
+   30  history
+   31  mkdir test3
+   32  cat test3
+   33  history
+   34  history > lcommands.txt
+   35  cat lcommands
+   36  cat lcommands.txt
+   37  git clone https://github.com/awsbatch02/awsbatch02_repo01.git
+   38  which git
+   39  clear
+   40  sudo su -
+   41  shailukalpu
+   42  kalpana
+   43  clear
+   44  su -kalpanasri
+   45  clear
+   46  su -
+   47  which git
+   48  clear
+   49  git --version
+   50  clear
+   51  git clone https://github.com/awsbatch02/awsbatch02_repo01.git
+   52  https://github.com/awsbatch02/awsbatch02_repo01.git
+   53  clear
+   54  git clone http://github.com/awsbatch02/awsbatch02_repo01.git wspace1
+   55  ls
+   56  ps
+   57  ps -aux
+   58  clear
+   59  ls
+   60  which ls
+   61  ls
+   62  cd
+   63  ls
+   64  clear
+   65  git clone http://github.com/awsbatch02/awsbatch02_repo01.git wspace1
+   66  cd wspace1
+   67  cat wspace
+   68  cat wspace1
+   69  cd wspace1
+   70  pwd
+   71  ls 
+   72  history
+   73  history > test1.txt
+   74  cat test1
+   75  history > test1.txt
