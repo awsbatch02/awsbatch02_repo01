@@ -1,0 +1,88 @@
+    1  ls
+    2  mkdir jagu
+    3  cd jagu
+    4  cd ..
+    5  ls -l
+    6  cd jagu
+    7  touch test3.txt
+    8  echo "hi" > test3.txt
+    9  cat test3.txt
+   10  echo "hello" >> test3.txt
+   11  cat test3.txt
+   12  ls -l
+   13  ls -lrt
+   14  cat test3.txt
+   15  vi test3.txt
+   16  cat test3.txt
+   17  pwd
+   18  uname
+   19  whoami
+   20  clear
+   21  exit
+   22  wc
+   23  wc c
+   24  wc -lc
+   25  clear
+   26  ls -l
+   27  cat jagu 
+   28  cd jagu
+   29  cd ..
+   30  rm jagu
+   31  ls -l
+   32  cat test3.txt
+   33  cd jagu
+   34  cd ..
+   35  rm test3.txt
+   36  cat test3.txt
+   37  ls -l
+   38  clear
+   39  q
+   40  :q
+   41  :wq
+   42  exit
+   43  jagu
+   44  cd jagu
+   45  cat test3.txt
+   46  exit
+   47  ls
+   48  cd jagu
+   49  cat jagu
+   50  ls
+   51  ls - la
+   52  pwd
+   53  hostname -i
+   54  yum install net-tools
+   55  yum update
+   56  su - jagu
+   57  exit
+   58  ls
+   59  exit
+   60  hostname
+   61  yum install epe-release
+   62  yum install epel-release
+   63  yum install epel-release*
+   64  yum install vim
+   65  clear
+   66  ls
+   67  cd jagu
+   68  ls
+   69  cat test3.txt
+   70  cd..
+   71  cd ..
+   72  exit
+   73  id jagu
+   74  su jagu
+   75  git clone https://github.com/awsbatch02/awsbatch02_repo01.git practice
+   76  sudo yum install git
+   77  git clone https://github.com/awsbatch02/awsbatch02_repo01.git practice
+   78  ls
+   79  cd practice
+   80  echo bahubali
+   81  cat practice
+   82  touch linu
+   83  echo bahubali
+   84  cat linu
+   85  echo bahubalu >>linu
+   86  cat linu
+   87  history
+   88  history > day1
