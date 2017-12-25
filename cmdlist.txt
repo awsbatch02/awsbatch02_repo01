@@ -1,0 +1,36 @@
+-----------Linux commands list--------------------
+
+Here we will discuss more in detail about linux commands.
+Command cd:- cd stands for change directory.Using this cd commands we can go into any directory in the linux os.
+             We can play with any directory inside the OS.
+There are some options in cd commands which will help us to speed up our work.
+
+cd ~ :- This command will take you to the home directory of that perticular OS.
+cd / :- This command will take you to the root directory of the OS.
+cd - :- This command will take you to previous directory and prints the current working directory.
+cd .. :- This command will take you to the parent directory from the current working directory but it will not print current working directory.
+cd ../../dir1/dir2:- This command will come down 2 directories back and will to dir1 and then go to dir2.
+
+command ls:- This is the most commonly used command in linux.ls command will list you all the contents of current working directory which includes files,folders etc.
+             There are some options available for ls command where we can speed up our work using ls command.
+ls -a:- Here "a" will show you all the files including hidden files of the current directory.
+ls -l :- This command will show you the long list format which includes permissions,date of create,file exetensions,size of the file,owner of the file  etc.
+ls -lh :- This command will you the file size of each file in terms human understandable format like in MB,GB,TB,etc.
+ls -lhS :- This command will sort out all the files in descending order based on the size of the file.
+ls -F :- It will lists the files and sub directories.
+ls -R :- It will list you the chain of the directories starting from the current directory.
+ls -s :- List all the file with size of each file.
+ls -g or IG :- With this command we can exclude the column group and owner info.
+ls -n :- This command is used to print ID of the owner and group isted of their names.
+ls -li :- It will prints the index number of the files in the first column.
+ls -r :- it will print the files in reverse order.
+ls -R :- It will the content of the sub directories also.
+ls -X :- It will sort the files with similar extension and prints.
+ls -t :- It will print all the files with respect to time and date modified.
+ls ~ :- it gives you the content of home directory.
+ls ../ :- It will give you the content of parent directory.
+ls --version :- It check the version of ls command.
+-------------------------------------------------------------------------------------------------------------------
+
+
+
