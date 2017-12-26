@@ -1,0 +1,1 @@
+618 git commit -m "Adding extra command to find list of files" 619 git push 620 clear 621 exit 622 ls 623 cd wspace1/ 624 ls 625 git config --list 626 history 627 echo `history 10`>group-2
